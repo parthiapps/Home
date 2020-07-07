@@ -138,6 +138,7 @@ spotxchange.com, 140812, RESELLER, 7842df1d2fe2db34
 spotx.tv, 140812, RESELLER, 7842df1d2fe2db34
 #StartApp
 startapp.com, 107654085, DIRECT
+startapp.com, 120755340, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 yahoo.com, 1510636, RESELLER
 aol.com, 50987, RESELLER
